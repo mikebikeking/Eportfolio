@@ -683,6 +683,10 @@ Shapes
   .modal__half {
     width: 100%;
   }
+
+  .shape {
+  display: none;
+}
 }
 
 @media (max-width: 480px) {
